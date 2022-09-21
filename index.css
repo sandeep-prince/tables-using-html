@@ -1,0 +1,34 @@
+*{
+    font-family: "roboto";
+}
+p{
+    margin:0px;
+    padding:0px;
+}
+
+
+.maintable, tr, td, th{
+    border: 2px solid black;
+    border-collapse: collapse;  
+}
+
+
+.nestedtable td,tr{
+    border: none;
+}
+
+.nestedtable th{
+    border: none;
+}
+
+
+.caption_heading{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "roboto";
+}
+
+.usd-heading{
+    font-weight: bold;
+    font-size: 14px;
+}
